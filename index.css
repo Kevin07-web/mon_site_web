@@ -12,6 +12,7 @@ h1 {
 body {
   background-color: brown;
 }
-.p1 {
-  background: local;
+
+.p2 {
+  color: yellow;
 }
